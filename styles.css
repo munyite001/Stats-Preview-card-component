@@ -33,7 +33,6 @@ body {
 
 main {
   width: 100%;
-  height: 100%;
   background-color: var(--clr-primary);
   display: flex;
   flex-direction: column;
@@ -44,12 +43,11 @@ main {
 .container {
   min-width: 300px;
   width: 80%;
-  height: auto;
   display: flex;
   flex-direction: column-reverse;
   background-color: var(--clr-secondary);
   border-radius: 10px;
-  margin: 2rem 0;
+  margin: 2rem;
 }
 
 
@@ -132,6 +130,9 @@ main {
 
 /* Desktop Design */
 @media screen and (min-width: 800px) {
+  main {
+    height: 100%;
+  }
   .container {
     flex-direction: row;
     max-height: 500px;
