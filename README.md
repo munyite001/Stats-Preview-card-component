@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/munyite001/Card_Template_Frontend-Mentor](https://github.com/munyite001/Card_Template_Frontend-Mentor)
-- Live Site URL: [https://card001.netlify.app](https://card001.netlify.app)
+- Solution URL: [https://github.com/munyite001/Stats-Preview-card-component](https://github.com/munyite001/Stats-Preview-card-component)
+- Live Site URL: [stats-preview-frm.netlify.app](stats-preview-frm.netlify.app)
 
 ## My process
 Started with modible design, then worked my way towards the deskop design
